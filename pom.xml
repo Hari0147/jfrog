@@ -127,7 +127,6 @@
            <artifactId>jfrog-utils</artifactId>
            <version>1.5.5</version>
         </dependency>
-
     </dependencies>
     <build>
         <plugins>
@@ -169,8 +168,8 @@
     <distributionManagement>
     <repository>
         <id>central</id>
-        <name>ip-172-16-2-104-releases</name>
-        <url>http://172.16.2.104:8080/artifactory/libs-release</url>
+        <name>ip-172-16-2-181-releases</name>
+        <url>https://172.16.2.181/artifactory/libs-release-local</url>
     </repository>
     </distributionManagement>
 </project>
